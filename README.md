@@ -35,15 +35,13 @@ This project:
   - `train.csv`, `test.csv`: metadata for 30k/10k samples
   - `tensors.csv`, `tensors_df.pkl`: preprocessed image data for faster loading
 
-## Repository Structure
-galaxy-flux-ml/
-├── Predicting_Galaxy_Flux_with_ML_.ipynb # Jupyter notebook (end-to-end code)
-├── PHYS378_Final_Project__Predicting_Galaxy_Flux_with_ML.pdf # Final report
-├── train.csv # Training metadata
-├── test.csv # Testing metadata
-├── tensors.csv # Image tensors (flattened)
-├── tensors_df.pkl # Pandas dataframe of tensors
-├── Final Report PDF
+## File Structure
+- `Predicting_Galaxy_Flux_with_ML_.ipynb`: End-to-end code
+- `PHYS378_Final_Project__Predicting_Galaxy_Flux_with_ML.pdf`: Final report
+- `train.csv`: Training metadata
+- `test.csv`: Testing metadata
+- `tensors.csv`: Image tensors (flattened)
+- `tensors_df.pkl`: Pandas dataframe of tensors
 
 ## Results Summary
 | Model      | MSE (Train) | MSE (Test) | Notes                          |
