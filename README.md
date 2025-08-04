@@ -40,7 +40,7 @@ This project:
 - `train.csv`: Training metadata
 - `test.csv`: Testing metadata
 - `tensors.csv`: Image tensors (flattened)
-- `tensors_df.pkl`: Pandas dataframe of tensors
+- `tensors_df.pkl`: Pandas dataframe of tensors (unable to upload due to file size)
 
 ## Results Summary
 | Model      | MSE (Train) | MSE (Test) | Notes                          |
