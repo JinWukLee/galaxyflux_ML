@@ -2,8 +2,8 @@
 This project explores the use of convolutional neural networks (CNNs) to predict galaxy flux from 2D grayscale images, using simulated data inspired by the Hyper Suprime-Cam Survey. We benchmarked traditional regression methods and developed a deep learning model that significantly outperformed linear and tree-based approaches in accuracy and scalability.
 
 > Conducted as a final project for PHYS 378 at Yale University  
-> Collaborators: Jin Wuk Lee & Jinwoo Kim  
 > Focus Areas: Machine Learning, Model Evaluation
+> Collaborators: Jin Wuk Lee & Jinwoo Kim  
 
 ## Background
 **Galaxy flux** measures the total light received from a galaxy—a fundamental quantity for astronomers. Traditional methods like light-profile fitting are computationally intensive and do not scale to modern survey sizes.
