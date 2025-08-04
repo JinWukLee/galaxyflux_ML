@@ -3,7 +3,6 @@ This project explores the use of convolutional neural networks (CNNs) to predict
 
 > Conducted as a final project for PHYS 378 at Yale University  
 > Focus Areas: Machine Learning, Model Evaluation
-> Collaborators: Jin Wuk Lee & Jinwoo Kim
 
 ## Background
 **Galaxy flux** measures the total light received from a galaxy—a fundamental quantity for astronomers. Traditional methods like light-profile fitting are computationally intensive and do not scale to modern survey sizes.
