@@ -35,11 +35,13 @@ This project:
   - `tensors.csv`, `tensors_df.pkl`: preprocessed image data for faster loading
 
 ## File Structure
-- `Predicting_Galaxy_Flux_with_ML_.ipynb`: End-to-end code
+- `Predicting_Galaxy_Flux_with_ML_.ipynb`: Linear, Logistic, Random Forest, and CNN training notebook with model benchmarking and flux prediction
 - `PHYS378_Final_Project__Predicting_Galaxy_Flux_with_ML.pdf`: Final report
 - `train.csv`: Training metadata
 - `test.csv`: Testing metadata
 - `tensors.csv`: Image tensors (flattened)
+
+> Preprocessing involved saving image tensors using Python's built-in 'pickle' module.
 
 ## Results Summary
 | Model      | MSE (Train) | MSE (Test) | Notes                          |
