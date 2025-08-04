@@ -55,6 +55,9 @@ This project:
 - Use real survey data from SDSS or Hyper Suprime-Cam
 - Deploy as a web-based regression demo (Streamlit or Gradio)
 
+## Collaborators
+- Jin Wuk Lee
+- Jinwoo Kim
 
 
 
